@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Bett Kipkemoi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Sometimes, the only way to make a difference is to break the rules.Hackers hack systems, professionals hack people."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
