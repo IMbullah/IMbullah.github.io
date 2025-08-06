@@ -7,7 +7,18 @@ author_profile: true
 ---
 
 ## Resume
----
+
 ## Education
 
 .Bsc in Computer Science, The Catholic university of Eastern Africa- * Second class honors*
+
+## Certifications
+
+. certifications available on credly and on EC-Council:
+    .Junior cybersecurity analyst career path
+    .Introduction to cybersecurity
+    . Cybersecurity & Emerging Technologies- ICT Authority, Kenya
+    . Cybersecurity for businesses
+    . Sql injection attacks
+
+## Experience
