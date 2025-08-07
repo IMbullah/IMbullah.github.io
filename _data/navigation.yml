@@ -1,8 +1,8 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Categories"
-    url: /categories/
+  - title: "Experience"
+    url: /experience/
   - title: "Tags"
     url: /tags/
   - title: "About"
