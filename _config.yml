@@ -67,7 +67,7 @@ author:
       url: "https://"
     - label: "X"
       icon: "fab fa-fw fa-x-square"
-      url: "https://x.com/"
+      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
