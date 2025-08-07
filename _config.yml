@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 x_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cybersecurity specialist with a focus on ethical hacking and blockchain security, skilled in penetration testing, vulnerability assessment, and safeguarding digital assets. Passionate about staying ahead of emerging threats and translating complex security concepts into actionable protection strategies."
   links:
-    - label: "Website"
+    - label: "email"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "X"
@@ -71,8 +71,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 footer:
@@ -83,8 +83,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 defaults:
