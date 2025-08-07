@@ -46,3 +46,10 @@ author_profile: true
     .Penetration testing
     .Communication
     .Vulnerability assessment
+
+## Projects
+
+    .Developed a Leave Management System:  to streamline employee time-off requests, approvals, and tracking. The system featured secure role-based access control for administrators, managers, and staff, automated leave balance calculations, and real-time status updates.
+    Integrated email notifications for approvals and rejections, and implemented a centralised database to maintain accurate, auditable leave records. Designed with a user-friendly interface to improve HR efficiency, reduce paperwork, and ensure compliance with company policies
+    .Participated in drafting, building of  infrimary system for university
+    .
