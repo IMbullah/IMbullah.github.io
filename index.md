@@ -15,6 +15,7 @@ author_profile: true
 ## Certifications
 
 . certifications available on credly and on EC-Council:
+
     .Junior cybersecurity analyst career path
     .Introduction to cybersecurity
     . Cybersecurity & Emerging Technologies- ICT Authority, Kenya
