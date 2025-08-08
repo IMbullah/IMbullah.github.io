@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Bett Kipkemoi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "ChatGPT said:
-"Cybersecurity enthusiast specializing in ethical hacking and blockchain security, driven to protect systems from evolving digital threats."
+  bio    : "Cybersecurity enthusiast specializing in ethical hacking and blockchain security, driven to protect systems from evolving digital threats."
   links:
     - label: "email"
       icon: "fas fa-fw fa-link"
