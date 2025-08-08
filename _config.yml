@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Bett Kipkemoi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cybersecurity specialist with a focus on ethical hacking and blockchain security, skilled in penetration testing, vulnerability assessment, and safeguarding digital assets. Passionate about staying ahead of emerging threats and translating complex security concepts into actionable protection strategies."
+  bio    : "ChatGPT said:
+"Cybersecurity enthusiast specializing in ethical hacking and blockchain security, driven to protect systems from evolving digital threats."
   links:
     - label: "email"
       icon: "fas fa-fw fa-link"
